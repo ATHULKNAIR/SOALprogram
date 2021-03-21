@@ -1,2 +1,0 @@
-# SOALprogram
-My SOAL journey
